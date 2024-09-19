@@ -2,4 +2,4 @@
 
 This is my CV/Personal Website.
 
-Live Link :- 
+Live Link :- https://mayank-cv.netlify.app/
