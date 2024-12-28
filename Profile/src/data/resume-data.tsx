@@ -113,6 +113,23 @@ export const RESUME_DATA = {
   // projects
   projects: [
     {
+      title: "M3DIA-SAAS",
+      techStack: [
+        "Full Stack Developer",
+        "TypeScript",
+        "Nextjs",
+        "Cloudinary",
+        "UI Liberary",
+      ],
+      description:
+        "Its a SAAS product which helps and deals with media files (Image & Videos).",
+      logo: ParabolLogo,
+      link: {
+        label: "https://m3dia-saas.vercel.app/",
+        href: "https://m3dia-saas.vercel.app/",
+      },
+    },
+    {
       title: "My Portfolio",
       techStack: [
         "Full Stack Developer",
