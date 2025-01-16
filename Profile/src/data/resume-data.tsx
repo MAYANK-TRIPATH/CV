@@ -112,6 +112,23 @@ export const RESUME_DATA = {
 
   // projects
   projects: [
+     {
+      title: "Neur0-Lingua",
+      techStack: [
+        "Full Stack Developer",
+        "TypeScript",
+        "Nextjs",
+        "Gemini",
+        "UI Liberary",
+      ],
+      description:
+        "Its a AI-Wrapper that can translate languages, listen to your voice, and even talk back. It’s powered by AI.",
+      logo: ParabolLogo,
+      link: {
+        label: "https://neuro-lingua.vercel.app/",
+        href: "https://neuro-lingua.vercel.app/",
+      },
+    },
     {
       title: "M3DIA-SAAS",
       techStack: [
