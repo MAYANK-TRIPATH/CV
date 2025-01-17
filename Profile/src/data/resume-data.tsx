@@ -22,8 +22,8 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Mayank Tripathi",
   initials: "MT",
-  location: "Prayagraj, Uttar Pradesh, India",
-  locationLink: "https://maps.app.goo.gl/D1gcoQfS69r6hUSP6",
+  location: "India",
+  locationLink: "",
   about:
     "Full Stack Developer dedicated to building high-quality products.",
   summary:
