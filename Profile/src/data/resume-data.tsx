@@ -101,6 +101,8 @@ export const RESUME_DATA = {
     "JavaScript",
     "TypeScript",
     "React/Next.js",
+    "React-Native",
+    "Expo",
     "Node.js",
     "Express.js",
     "SQL/MYSQL",
@@ -113,7 +115,7 @@ export const RESUME_DATA = {
   // projects
   projects: [
      {
-      title: "Neur0-Lingua",
+      title: "Neuro-Lingua",
       techStack: [
         "Full Stack Developer",
         "TypeScript",
