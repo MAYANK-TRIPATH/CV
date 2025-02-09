@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "OMSKILLS Pvt. Ltd.",
-      link: "https://omskill.com",
+      link: "https://om-website-six.vercel.app",
       badges: ["Remote"],
       title: "FullStack Developer",
       logo: ConsultlyLogo,
