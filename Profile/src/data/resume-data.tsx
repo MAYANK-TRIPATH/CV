@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "India",
   locationLink: "",
   about:
-    "Full Stack Developer dedicated to building high-quality products.",
+    "Co-founder @Nuestrou, Full Stack Developer",
   summary:
     "I am Mayank Tripathi, a dedicated and proactive engineer specializing in information technology and also freelancer, equipped with comprehensive skills in the Full-stack. Demonstrated ability to deliver high-quality results within deadlines, both independently and collaboratively. ",
   avatarUrl: "https://avatars.githubusercontent.com/u/84989130?s=400&u=0d0725300ef5f531bdcd0a3d8bb6e88e7243db5c&v=4",
