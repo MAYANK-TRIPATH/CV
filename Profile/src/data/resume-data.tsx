@@ -102,6 +102,7 @@ export const RESUME_DATA = {
     "TypeScript",
     "React/Next.js",
     "React-Native",
+    "Web-Sockets",
     "Expo",
     "Node.js",
     "Express.js",
