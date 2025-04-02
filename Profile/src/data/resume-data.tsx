@@ -115,6 +115,23 @@ export const RESUME_DATA = {
 
   // projects
   projects: [
+    {
+      title: "AI-Photo Enhancer",
+      techStack: [
+        "Frontend Developer",
+        "TypeScript",
+        "ReactJS",
+        "PicWish API",
+        "Tailwind",
+      ],
+      description:
+        "Its an AI based Image Quality Enhancer in which you can upload your bad quality image and got better quality image",
+      logo: ParabolLogo,
+      link: {
+        label: "https://ai-photo-blond.vercel.app/",
+        href: "https://ai-photo-blond.vercel.app/",
+      },
+      },
      {
       title: "Neuro-Lingua",
       techStack: [
