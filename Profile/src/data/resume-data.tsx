@@ -60,6 +60,17 @@ export const RESUME_DATA = {
     },
   ],
   work: [
+{
+      company: "Wealthup",
+      link: "https://www.wealthup.me/",
+      badges: ["Remote"],
+      title: "Backend Developer (Freelance)",
+      logo: ConsultlyLogo,
+      start: "Mar-2025",
+      end: "May-2025",
+      description:
+        "Led backend development for mutual fund transaction flows, integrated with Cybrilla APIs, optimized email/SMS notifications, implemented e-mandate support, improved reporting APIs, and ensured robust deployment and logging on AWS.",
+    },
     {
       company: "OMSKILLS Pvt. Ltd.",
       link: "https://om-website-six.vercel.app",
@@ -82,17 +93,7 @@ export const RESUME_DATA = {
       description:
         "Crafted user interfaces for diverse devices, ensuring seamless performance and accessibility, utilizing custom React components, JSON, AJAX, and REST APIs.",
     },
-    {
-      company: "Google Development Student Club",
-      link: "/#",
-      badges: ["Remote"],
-      title: "Web Developer Lead",
-      logo: ClevertechLogo,
-      start: "Aug-2022",
-      end: "Mar-2023",
-      description:
-        "Provided mentorship & guidance to juniors about GDSC and Web-Development.",
-    },
+    
   
     // -------------------------------------------
 
@@ -111,6 +112,7 @@ export const RESUME_DATA = {
     "PostgreSQL",
     "Docker",
     "Git",
+    "AWS",
   ],
 
   // projects
