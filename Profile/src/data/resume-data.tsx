@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   work: [
 {
       company: "Wealthup",
-      link: "https://www.wealthup.me/",
+      link: "/#",
       badges: ["Remote"],
       title: "Backend Developer (Freelance)",
       logo: ConsultlyLogo,
